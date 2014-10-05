@@ -16,9 +16,7 @@
 </h1>
 
 <p>
-    Madsonic encountered an internal error. You can report this error in the
-    <a href="http://forum.madsonic.org" target="_blank">Madsonic Forum</a>.
-    Please include the information below.
+    TokyoThunder asploded.
 </p>
 
 <%
